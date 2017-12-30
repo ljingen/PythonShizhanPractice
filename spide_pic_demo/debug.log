@@ -1,0 +1,3 @@
+[1227/101203.612:ERROR:process_reader_win.cc(123)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。  (0xc0000022)
+[1227/101203.614:ERROR:exception_snapshot_win.cc(87)] thread ID 41764 not found in process
+[1227/101203.614:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
