@@ -12,7 +12,7 @@ EPS = 1e-66  # 是的.10的-6次方.简单的说,就是1.0的小数点,向左边
 RESOLUTION = 0.001
 num_grids = int(1/RESOLUTION + 0.5) #num_grids = 1000
 
-
+ve = numpy.array([5,5,5,5])
 def generate_lut(img):
     """
     谓偏函数即是规定了固定参数的函数,在函数式编程中我们经常可以用到 partial()
